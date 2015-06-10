@@ -1,7 +1,7 @@
 <?php
 //include "connection.php";
 // Create connection
-$conn = mysqli_connect('localhost', 'root', '', 'krishnam_books4us');
+$conn = mysqli_connect('localhost', 'root', '', 'books4us');
 
 // Start the session
 session_start();
