@@ -1,7 +1,7 @@
 <?php
 //include "connection.php";
 // Create connection
-$conn = mysqli_connect('localhost', 'root', '', 'books4us');
+$conn = mysqli_connect('localhost', 'root', '', 'tumudina_books4us');
 // Check connection
 if (!$conn) {
     die("Connection failed: " . mysqli_connect_error());
